@@ -1,0 +1,11 @@
+C:\Users\nkose\source\repos\udemy_csharp_2\bin\Debug\udemy_csharp_2.exe.config
+C:\Users\nkose\source\repos\udemy_csharp_2\bin\Debug\udemy_csharp_2.exe
+C:\Users\nkose\source\repos\udemy_csharp_2\bin\Debug\udemy_csharp_2.pdb
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.csproj.AssemblyReference.cache
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.Form1.resources
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.Properties.Resources.resources
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.csproj.GenerateResource.cache
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.csproj.CoreCompileInputs.cache
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.exe
+C:\Users\nkose\source\repos\udemy_csharp_2\obj\Debug\udemy_csharp_2.pdb

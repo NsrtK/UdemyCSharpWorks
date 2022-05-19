@@ -1,0 +1,15 @@
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.csproj.AssemblyReference.cache
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.AssemblyInfoInputs.cache
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.AssemblyInfo.cs
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.csproj.CoreCompileInputs.cache
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\bin\Debug\net6.0\Udemy_CSharp_Odev5.exe
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\bin\Debug\net6.0\Udemy_CSharp_Odev5.deps.json
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\bin\Debug\net6.0\Udemy_CSharp_Odev5.runtimeconfig.json
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\bin\Debug\net6.0\Udemy_CSharp_Odev5.dll
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\bin\Debug\net6.0\Udemy_CSharp_Odev5.pdb
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.dll
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\refint\Udemy_CSharp_Odev5.dll
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.pdb
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\Udemy_CSharp_Odev5.genruntimeconfig.cache
+C:\Users\nkose\source\repos\Udemy_CSharp_Odev5\obj\Debug\net6.0\ref\Udemy_CSharp_Odev5.dll
